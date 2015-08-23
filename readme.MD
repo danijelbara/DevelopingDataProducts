@@ -1,8 +1,10 @@
 ## Developing Data Products:
 ### Car Fuel Simple Consumption Predictor
------------------------------------------
-> Author: Danijel Bara, "Sun Aug 23 11:57:45 2015"
---------------------------------------------------------------
+------------------------------------------------------
+> Author: Danijel Bara, GutHub: 
+ https://github.com/danijelbara/DevelopingDataProducts
+Sun Aug 23 11:57:45 2015
+------------------------------------------------------
         
 #### Introduction
         
