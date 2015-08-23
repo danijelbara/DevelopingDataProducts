@@ -1,0 +1,8 @@
+name: DevDataProduct_ShinyApp
+account: danijelbara
+server: shinyapps.io
+bundleId: 248370
+url: https://danijelbara.shinyapps.io/DevDataProduct_ShinyApp
+when: 1440323701.45451
+asMultiple: FALSE
+asStatic: FALSE
